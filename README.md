@@ -84,6 +84,12 @@ employee-attrition-analysis/
     ├── dashboard_visuals_1_2.png
     ├── visual_model_accuracy.png
     ├── visual_attrition_breakdown.png
+    ├── attrition_by_satisfaction.png
+    ├── confusion_matrix_Random_Forest.png
+    ├── confusion_matrix_AdaBoost.png
+    ├── Feature_Importance.png
+    ├── Full_visual_dashboard_with_title.png
+    ├── Model_comparison_FR_AdaBoost.png
     └── visual_filters.png
 ```
 
